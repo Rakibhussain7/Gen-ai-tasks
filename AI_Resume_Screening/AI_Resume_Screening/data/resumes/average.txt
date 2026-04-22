@@ -1,0 +1,24 @@
+Name: Ravi Mehta
+Email: ravi.mehta@email.com
+Phone: +91-9123456780
+
+Professional Summary:
+Entry-level data analyst with basic knowledge of data analysis and machine learning concepts.
+
+Skills:
+- Programming: Python (basic), SQL
+- Libraries: Pandas, NumPy
+- Visualization: Matplotlib
+- Tools: Excel, Google Sheets
+
+Work Experience:
+Junior Data Analyst – StartupXYZ (2023–2024)
+- Performed exploratory data analysis on sales datasets
+- Created reports and dashboards for internal teams
+
+Projects:
+- Sales Data Analysis using Python
+- Simple Linear Regression model for price prediction
+
+Education:
+B.Tech in Information Technology

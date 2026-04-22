@@ -1,0 +1,23 @@
+Name: Priya Patil
+Email: priya.patil@email.com
+Phone: +91-9000000000
+
+Professional Summary:
+Recent graduate with interest in web development and basic programming.
+
+Skills:
+- Web Development: HTML, CSS, JavaScript
+- Basic Programming: Python (beginner)
+- Tools: WordPress, Canva
+
+Work Experience:
+Intern – Web Development (6 months)
+- Assisted in building static websites
+- Worked on basic UI design tasks
+
+Projects:
+- Personal Portfolio Website
+- Social Media Design for Local Business
+
+Education:
+B.Com in Commerce

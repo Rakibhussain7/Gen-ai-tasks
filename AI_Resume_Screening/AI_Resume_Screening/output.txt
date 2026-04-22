@@ -1,0 +1,121 @@
+
+============================================================
+💪 Strong Candidate
+============================================================
+
+EXTRACTED:
+{
+  "name": "Aisha Sharma",
+  "email": "aisha.sharma@email.com",
+  "skills": [
+    "Programming: Python, R, SQL",
+    "Machine Learning: Scikit-learn, TensorFlow, PyTorch",
+    "Data Analysis: Pandas, NumPy",
+    "Visualization: Matplotlib, Seaborn, Power BI",
+    "Cloud Platforms: AWS (SageMaker), GCP",
+    "Tools: Docker, FastAPI, Flask"
+  ],
+  "tools": [
+    "Docker",
+    "FastAPI",
+    "Flask"
+  ],
+  "experience": "Data Scientist \u2013 TechCorp (2021\u20132024)",
+  "domain": "Data Scientist"
+}
+
+MATCH:
+{
+  "matched": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Data Visualization",
+    "Cloud (AWS/GCP/Azure)"
+  ],
+  "missing": []
+}
+
+SCORE:
+95
+
+EXPLANATION:
+The score of 95 indicates a high level of match between the candidate's skills and the job requirements. The matched skills include Python, Machine Learning, SQL, Pandas, NumPy, Data Visualization, and Cloud computing. This suggests the candidate has a strong foundation in relevant areas.
+
+
+============================================================
+⚖️ Average Candidate
+============================================================
+
+EXTRACTED:
+{
+  "name": "Ravi Mehta",
+  "email": "ravi.mehta@email.com",
+  "skills": [
+    "Python (basic)",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Excel",
+    "Google Sheets"
+  ],
+  "tools": [
+    "Excel",
+    "Google Sheets"
+  ],
+  "experience": "Junior Data Analyst \u2013 StartupXYZ (2023\u20132024)",
+  "domain": "Information Technology"
+}
+
+MATCH:
+{
+  "matched": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Data Visualization"
+  ],
+  "missing": [
+    "Machine Learning",
+    "Cloud (AWS/GCP/Azure)"
+  ]
+}
+
+SCORE:
+75
+
+EXPLANATION:
+The score of 75 indicates a moderate level of match between the provided skills and the job requirements. The matched skills are relevant to data analysis and visualization, but the missing skills are crucial for a more comprehensive understanding of the field.
+
+
+============================================================
+❌ Weak Candidate
+============================================================
+
+EXTRACTED:
+{}
+
+MATCH:
+{
+  "matched": [],
+  "missing": [
+    "Python",
+    "Machine Learning",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Data Visualization",
+    "Cloud (AWS/GCP/Azure)"
+  ]
+}
+
+SCORE:
+20
+
+EXPLANATION:
+The score is 20 out of a possible total. This indicates that 20 items have been matched correctly, while 6 items are still missing.
+

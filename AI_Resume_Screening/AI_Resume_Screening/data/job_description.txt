@@ -1,0 +1,9 @@
+Role: Data Scientist
+
+Requirements:
+- Python
+- Machine Learning
+- SQL
+- Pandas, NumPy
+- Data Visualization
+- Cloud (AWS/GCP/Azure)

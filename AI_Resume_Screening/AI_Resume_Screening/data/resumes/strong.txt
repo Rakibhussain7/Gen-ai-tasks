@@ -1,0 +1,27 @@
+Name: Aisha Sharma
+Email: aisha.sharma@email.com
+Phone: +91-9876543210
+
+Professional Summary:
+Data Scientist with 3+ years of experience in building machine learning models, data analysis, and deploying scalable solutions.
+
+Skills:
+- Programming: Python, R, SQL
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch
+- Data Analysis: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn, Power BI
+- Cloud Platforms: AWS (SageMaker), GCP
+- Tools: Docker, FastAPI, Flask
+
+Work Experience:
+Data Scientist – TechCorp (2021–2024)
+- Developed a customer churn prediction model with high accuracy
+- Deployed ML models using Docker and FastAPI
+- Built dashboards using Power BI for business insights
+
+Projects:
+- Recommendation System using collaborative filtering
+- End-to-end ML pipeline deployment on AWS
+
+Education:
+B.Tech in Computer Science
